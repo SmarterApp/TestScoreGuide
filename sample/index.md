@@ -53,7 +53,7 @@ The following is a [Sample Student Score Report]({{ site.baseurl }}/pdf/Idaho-Sa
 
 	<p markdown="1">
 
-**(2) Summary of Test Performance**: An overview that includes your student’s name, student identification number, scale score, and overall achievement level. Starting in 2018, this section also include lexile information (for ELA/Literacy) and quantile information (for Math). These new measures can help you understand your student’s performance and identify appropriate learning resources.
+**(2) Summary of Test Performance**: An overview that includes your student’s name, student identification number, scale score, and overall achievement level. Starting in 2018, this section also includes lexile information (for ELA/Literacy) and quantile information (for Math). These new measures can help you understand your student’s performance and identify appropriate learning resources.
 
 				</p>
 			</div>			
