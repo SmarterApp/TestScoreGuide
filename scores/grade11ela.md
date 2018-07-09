@@ -21,13 +21,13 @@ The student took a Smarter Balanced assessment based on the high school [Washing
 
 <div class="accordion" markdown="1">
 
-### Level 4: 2682–3032 {#desc-exceeded}
+### Level 4: 2678–3032 {#desc-exceeded}
 
 The student exceeded the high school standard for English language arts/literacy and is ready for future coursework.
 
-Higher Ed Placement Agreement (HEPA) status: Ready for college-level English coursework
+Higher Education Placement Agreement (HEPA) status: Likely ready for college-level English coursework
 
-Under the HEPA—which is a collaboration of Washington’s community and technical colleges, all public and most private four-year universities, and the Office of Superintendent of Public Instruction—the student’s ELA score indicates he or she is considered ready for college-level English coursework. Review the information on the [Bridge to College web page](http://www.k12.wa.us/CurriculumInstruct/BridgetoCollege/) to see how this status can help avoid the need for placement testing upon enrolling in higher ed.
+Under the HEPA—which is a collaboration of Washington’s community and technical colleges, all public and most private four-year universities, and the Office of Superintendent of Public Instruction—the student’s ELA score indicates he or she is likely ready for college-level English coursework. Review the information on the [Bridge to College web page](http://www.k12.wa.us/CurriculumInstruct/BridgetoCollege/) to see how this status can help the student avoid the need for placement testing upon enrolling in higher education within Washington State.
 
 - [Sample Item: Reading #1]({{ site.baseurl }}/pdf/ELA_G11_Reading_Standard_Exceeded_1.pdf)
 - [Sample Item: Reading #2]({{ site.baseurl }}/pdf/ELA_G11_Reading_Standard_Exceeded_2.pdf)
@@ -36,28 +36,28 @@ Under the HEPA—which is a collaboration of Washington’s community and techni
 </div>
 <div class="accordion" markdown="1">
 
-### Level 3: 2583–2681 {#desc-met}
+### Level 3: 2577–2677 {#desc-met}
 
 The student met the high school standard for English language arts/literacy and appears ready for future coursework.
 
-Higher Ed Placement Agreement (HEPA) status: Ready for college-level English coursework
+Higher Education Placement Agreement (HEPA) status: Likely ready for college-level English coursework
 
-Under the HEPA—which is a collaboration of Washington’s community and technical colleges, all public and most private four-year universities, and the Office of Superintendent of Public Instruction—the student’s ELA score indicates he or she is considered ready for college-level English coursework. Review the information on the [Bridge to College web page](http://www.k12.wa.us/CurriculumInstruct/BridgetoCollege/) to see how this status can help avoid the need for placement testing upon enrolling in higher ed.
+Under the HEPA—which is a collaboration of Washington’s community and technical colleges, all public and most private four-year universities, and the Office of Superintendent of Public Instruction—the student’s ELA score indicates he or she is likely ready for college-level English coursework. Review the information on the [Bridge to College web page](http://www.k12.wa.us/CurriculumInstruct/BridgetoCollege/) to see how this status can help the student upon enrolling in higher education within Washington State.
 
 - [Sample Item: Reading]({{ site.baseurl }}/pdf/ELA_G11_Reading_Standard_Met.pdf)
 
 </div>
 <div class="accordion" markdown="1">
 
-### Level 2: 2493–2582 {#desc-nearly-met}
+### Level 2: 2491–2576 {#desc-nearly-met}
 
 The student nearly met the high school standard for English language arts/literacy needed for likely success in future coursework. Please discuss with the student’s teacher(s) steps to help the student improve.
 
 Higher Ed Placement Agreement (HEPA) Status: Not yet demonstrating readiness for college-level English coursework
 
-Under the HEPA—which is a collaboration of Washington’s community and technical colleges, all public and most private four-year universities, and the Office of Superintendent of Public Instruction—the student’s ELA score indicates he or she is not yet considered ready for college-level English coursework. Review the information on the [Bridge to College web page](http://www.k12.wa.us/CurriculumInstruct/BridgetoCollege/) about how a Bridge to College course can help.
+Under the HEPA—which is a collaboration of Washington’s community and technical colleges, all public and most private four-year universities, and the Office of Superintendent of Public Instruction—the student’s ELA score indicates he or she is not yet considered ready for college-level English coursework. Review the information on the [Bridge to College web page](http://www.k12.wa.us/CurriculumInstruct/BridgetoCollege/) about how a Bridge to College course can help during the student’s senior year.
 
-Assessment Graduation Requirement Cut Score: In August 2015, the Washington State Board of Education set a minimum score of 2548 (which is within Level 2) for graduation. It remains a goal of the Board that all students will earn at least a Level 3 on the high school Smarter Balanced exams. As students and the system adjust to new standards and new assessments, the Board will revisit the minimum score that students need to graduate.
+Assessment Graduation Requirement Cut Score: In August 2015, the Washington State Board of Education set a minimum score of 2548 (which is within Level 2) for graduation. It remains a goal of the Board that all students will earn at least a Level 3 on the high school Smarter Balanced exams. As students and the system adjust to new standards and new assessments, the Board will revisit the minimum score that students need to graduate. If a high school student has not met the minimum score of 2548, they can retake the Smarter Balanced test, or use one of the other legislatively approved Assessment Graduation Alternatives.
 
 
 - [Sample Item: Reading]({{ site.baseurl }}/pdf/ELA_G11_Reading_Standard_Nearly_Met.pdf)
@@ -65,7 +65,7 @@ Assessment Graduation Requirement Cut Score: In August 2015, the Washington Stat
 </div>
 <div class="accordion" markdown="1">
 
-### Level 1: 2299-2492  {#desc-not-met}
+### Level 1: 2102-2490  {#desc-not-met}
 
 The student did not meet the high school standard for English language arts/literacy and did not demonstrate readiness for future coursework. Please discuss with the student’s teacher(s) steps to help the student improve.
 

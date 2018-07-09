@@ -22,24 +22,24 @@ The student took a Smarter Balanced assessment based on the high school [Washing
 
 <div class="accordion" markdown="1">
 
-### Level 4: 2718–3085 {#desc-exceeded}
+### Level 4: 2697–3085 {#desc-exceeded}
 
 The student exceeded the high school standard for mathematics and is ready for future coursework.
 
-Higher Ed Placement Agreement (HEPA) Status: Ready for college-level mathematics coursework
+Higher Education Placement Agreement (HEPA) Status: Likely ready for college-level mathematics coursework
 
-Under the HEPA—which is a collaboration of Washington’s community and technical colleges, all public and most private four-year universities, and the Office of Superintendent of Public Instruction—the student’s mathematics score indicates he or she is considered ready for college-level mathematics coursework. Review the information on the [Bridge to College web page](http://www.k12.wa.us/CurriculumInstruct/BridgetoCollege/) to see how this status can help avoid the need for placement testing upon enrolling in higher ed.
+Under the HEPA—which is a collaboration of Washington’s community and technical colleges, all public and most private four-year universities, and the Office of Superintendent of Public Instruction—the student’s mathematics score indicates he or she is on track to be  ready for college-level mathematics coursework. Review the information on the [Bridge to College web page](http://www.k12.wa.us/CurriculumInstruct/BridgetoCollege/) to see how this status, as well as mathematics course-work during their junior and senior year, can help the student upon enrolling in higher education within Washington State.
 
 </div>
 <div class="accordion" markdown="1">
 
-### Level 3: 2628–2717 {#desc-met}
+### Level 3: 2614–2696 {#desc-met}
 
 The student met the high school standard for mathematics and appears ready for future coursework.
 
-Higher Ed Placement Agreement (HEPA) Status: Ready for college-level mathematics coursework
+Higher Education Placement Agreement (HEPA) Status: Likely ready for college-level mathematics coursework
 
-Under the HEPA—which is a collaboration of Washington’s community and technical colleges, all public and most private four-year universities, and the Office of Superintendent of Public Instruction—the student’s mathematics score indicates he or she is considered ready for college-level mathematics coursework. Review the information on the [Bridge to College web page](http://www.k12.wa.us/CurriculumInstruct/BridgetoCollege/) to see how this status can help avoid the need for placement testing upon enrolling in higher ed.
+Under the HEPA—which is a collaboration of Washington’s community and technical colleges, all public and most private four-year universities, and the Office of Superintendent of Public Instruction—the student’s mathematics score indicates he or she is on track to be ready for college-level mathematics coursework. Review the information on the [Bridge to College web page](http://www.k12.wa.us/CurriculumInstruct/BridgetoCollege/) to see how this status, as well as mathematics course-work during their junior and senior year, can help the student upon enrolling in higher education within Washington State.
 
 - [Sample item: Concepts and Procedures]({{ site.baseurl }}/pdf/Math_G11_Concepts_and_Procedures_Standard_Met_1.pdf)
 - [Sample item: Problem Solving and Modeling/Data Analysis]({{ site.baseurl }}/pdf/Math_G11_Problem_Solving_and_Modeling_Standard_Met.pdf)
@@ -47,15 +47,15 @@ Under the HEPA—which is a collaboration of Washington’s community and techni
 </div>
 <div class="accordion" markdown="1">
 
-### Level 2: 2543–2627  {#desc-nearly-met}
+### Level 2: 2533–2613  {#desc-nearly-met}
 
 The student nearly met the high school standard for mathematics needed for likely success in future coursework. Please discuss with the student’s teacher(s) steps to help the student improve.
 
-Higher Ed Placement Agreement (HEPA) Status: Not yet demonstrating readiness for college-level mathematics coursework
+Higher Education Placement Agreement (HEPA) Status: Not yet demonstrating readiness for college-level mathematics coursework
 
-Under the HEPA—which is a collaboration of Washington’s community and technical colleges, all public and most private four-year universities, and the Office of Superintendent of Public Instruction—the student’s mathematics score indicates he or she is not yet considered ready for college-level mathematics coursework. Review the information on the [Bridge to College web page](http://www.k12.wa.us/CurriculumInstruct/BridgetoCollege/) about how a Bridge to College course can help.
+Under the HEPA—which is a collaboration of Washington’s community and technical colleges, all public and most private four-year universities, and the Office of Superintendent of Public Instruction—the student’s mathematics score indicates he or she is not yet considered ready for college-level mathematics coursework. Review the information on the [Bridge to College web page](http://www.k12.wa.us/CurriculumInstruct/BridgetoCollege/) about how a Bridge to College course can help during the student’s senior year.
 
-Assessment Graduation Requirement Cut Score: In August 2015, the Washington State Board of Education set a minimum score of 2595 (which is within Level 2) for graduation. It remains a goal of the Board that all students will earn at least a Level 3 on the high school Smarter Balanced exams. As students and the system adjust to new standards and new assessments, the Board will revisit the minimum score that students need to graduate.
+Assessment Graduation Requirement Cut Score: In August 2015, the Washington State Board of Education set a minimum score of 2595 (which is within Level 2) for graduation. It remains a goal of the Board that all students will earn at least a Level 3 on the high school Smarter Balanced exams. As students and the system adjust to new standards and new assessments, the Board will revisit the minimum score that students need to graduate. If a high school student has not met the minimum score of 2595, they can retake the Smarter Balances test, or use one of the other legislatively approved Assessment Graduation Alternatives.
 
 - [Sample item: Concepts and Procedures #1]({{ site.baseurl }}/pdf/Math_G11_Concepts_and_Procedures_Standard_Nearly_Met_1.pdf)
 - [Sample item: Concepts and Procedures #2]({{ site.baseurl }}/pdf/Math_G11_Concepts_and_Procedures_Standard_Nearly_Met_2.pdf)
@@ -63,7 +63,7 @@ Assessment Graduation Requirement Cut Score: In August 2015, the Washington Stat
 </div>
 <div class="accordion" markdown="1">
 
-### Level 1: 2118–2542 {#desc-not-met}
+### Level 1: 2118–2532 {#desc-not-met}
 
 The student did not meet the high school standard for mathematics and did not demonstrate readiness for future coursework. Please discuss with the student’s teacher(s) steps to help the student improve.
 
