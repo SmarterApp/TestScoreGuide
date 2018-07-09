@@ -75,13 +75,13 @@
 			{ "range": "met",        "text": "2586-2652" },
 			{ "range": "exceeded",   "text": "2653-2993" }
 		],
-		"ela11" : [
+		"ela10" : [
 			{ "range": "not-met",    "text": "2102-2490" },
 			{ "range": "nearly-met", "text": "2491-2576" },
 			{ "range": "met",        "text": "2577-2677" },
 			{ "range": "exceeded",   "text": "2678-3032" }
 		],
-		"math11" : [
+		"math10" : [
 			{ "range": "not-met",    "text": "2118-2532" },
 			{ "range": "nearly-met", "text": "2533-2613" },
 			{ "range": "met",        "text": "2614-2696" },
@@ -113,7 +113,7 @@ function updateRanges(g,s) {
 	var selectedSubject = s;
 	var rangeName = selectedSubject + selectedGrade;
 
-	// the firt 'subject' is always the same
+	// the first 'subject' is always the same
 	var rangeOptions = '<option value="-1" aria-hidden="true">Select score range</option>';
 	if( selectedSubject == "-1" ) {
 		// reset the range dropdown
@@ -225,7 +225,7 @@ $(function(){
 		subject = $('#subject').val();
 		range = $('#range').val();
 
-		if( grade == '3' || grade == '4' || grade == '5' || grade == '6' || grade == '7' || grade == '8' || grade == '11' ){
+		if( grade == '3' || grade == '4' || grade == '5' || grade == '6' || grade == '7' || grade == '8' || grade == '10' ){
 			if( subject == 'ela' || subject == 'math' ) {
 				if( range == 'exceeded' || range == 'met' || range == 'nearly-met' || range == 'not-met' ){
 					go = true;
