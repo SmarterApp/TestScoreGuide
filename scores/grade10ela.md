@@ -27,7 +27,7 @@ The student exceeded the high school standard for English language arts/literacy
 
 Higher Education Placement Agreement (HEPA) status: Likely ready for college-level English coursework
 
-Under the HEPA—which is a collaboration of Washington’s community and technical colleges, all public and most private four-year universities, and the Office of Superintendent of Public Instruction—the student’s ELA score indicates he or she is likely ready for college-level English coursework. Review the information on the [Bridge to College web page](http://www.k12.wa.us/CurriculumInstruct/BridgetoCollege/) to see how this status can help the student avoid the need for placement testing upon enrolling in higher education within Washington State.
+Under the HEPA—which is a collaboration of Washington’s community and technical colleges, all public and most private four-year universities, and the Office of Superintendent of Public Instruction—the student’s ELA score indicates he or she is likely ready for college-level English coursework. Review the information on the [Bridge to College web page](http://www.k12.wa.us/CurriculumInstruct/BridgetoCollege/) to see how this status can help the student upon enrolling in higher education within Washington State.
 
 - [Sample Item: Reading #1]({{ site.baseurl }}/pdf/ELA_G11_Reading_Standard_Exceeded_1.pdf)
 - [Sample Item: Reading #2]({{ site.baseurl }}/pdf/ELA_G11_Reading_Standard_Exceeded_2.pdf)
