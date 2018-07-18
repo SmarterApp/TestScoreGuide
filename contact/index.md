@@ -6,7 +6,7 @@ description: This Web page provides Oregon Department of Education and the Offic
 
 sections:
    rail: |
-      <p class="fluff"><img alt=" " src="../img/right-rail-20160609a-280x187.png" /></p>
+      <p class="fluff"><img alt=" " src="../img/ODE-logo.JPG" /></p>
 ---
 
 # Contact Information
@@ -21,4 +21,4 @@ Phone: 503-947-5600 <br />
 E-mail: <a href="mailto:ode.frontdesk@ode.state.or.us">ode.frontdesk@ode.state.or.us</a>
 
 
-For additional information about Oregon's Smarter Balanced Assessment, visit [Oregon Department of Education website](http://www.oregon.gov/ODE/Pages/default.aspx).
+For additional information about Oregon's Assessment, visit [Oregon Department of Education website](http://www.oregon.gov/ODE/Pages/default.aspx).

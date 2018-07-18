@@ -17,7 +17,7 @@ In grade eleven, students develop a deep understanding of mathematical concepts 
 
 ## Overall Achievement
 
-The student took a Smarter Balanced assessment based on the grade eleven [Oregon academic content standards](http://www.oregon.gov/ode/educator-resources/standards/Pages/default.aspx) for mathematics and received an overall score. This overall score falls into one of the four achievement levels shown here. Sample test items may be included that exemplify the kinds of passages and questions that students at different levels of achievement would likely answer correctly.
+The student took the assessment based on the grade eleven [Oregon academic content standards](http://www.oregon.gov/ode/educator-resources/standards/Pages/default.aspx) for mathematics and received an overall score. This overall score falls into one of the four achievement levels shown here. Sample test items may be included that exemplify the kinds of passages and questions that students at different levels of achievement would likely answer correctly.
 
 <div class="accordion" markdown="1">
 
@@ -26,7 +26,7 @@ The student took a Smarter Balanced assessment based on the grade eleven [Oregon
 The student exceeded the grade eleven standard for mathematics and is ready for future coursework.
 
 **Oregon Community College and Public university course placement agreements:**
-Under these agreements—which are a collaboration of the Community College Presidents,  University Provosts, the Higher Education Coordinating Commission (HECC), and the Oregon Department of Education—the student's Smarter Balanced test scores can factor into the processes for student placement into entry-level credit bearing college courses without need for additional placement testing. The student's Level 2 overall score indicates he or she is not yet demonstrating readiness for mathematics college-level coursework. Review the information on the [HECC College Course Placement Web page](http://www.oregon.gov/highered/policy-collaboration/Pages/placement.aspx).
+Under these agreements—which are a collaboration of the Community College Presidents,  University Provosts, the Higher Education Coordinating Commission (HECC), and the Oregon Department of Education—the student's assessment scores can factor into the processes for student placement into entry-level credit bearing college courses without need for additional placement testing. The student's Level 2 overall score indicates he or she is not yet demonstrating readiness for mathematics college-level coursework. Review the information on the [HECC College Course Placement Web page](http://www.oregon.gov/highered/policy-collaboration/Pages/placement.aspx).
 
 - [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3270)
 - [Sample item: Problem Solving](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3352)
@@ -40,7 +40,7 @@ Under these agreements—which are a collaboration of the Community College Pres
 The student met the grade eleven standard for mathematics and appears ready for future coursework.
 
 **Oregon Community College and Public university course placement agreements:**
-Under these agreements—which are a collaboration of the Community College Presidents,  University Provosts, the Higher Education Coordinating Commission (HECC), and the Oregon Department of Education—the student's Smarter Balanced test scores can factor into the processes for student placement into entry-level credit bearing college courses without need for additional placement testing. The student's Level 2 overall score indicates he or she is not yet demonstrating readiness for mathematics college-level coursework. Review the information on the [HECC College Course Placement Web page](http://www.oregon.gov/highered/policy-collaboration/Pages/placement.aspx).
+Under these agreements—which are a collaboration of the Community College Presidents,  University Provosts, the Higher Education Coordinating Commission (HECC), and the Oregon Department of Education—the student's assessment scores can factor into the processes for student placement into entry-level credit bearing college courses without need for additional placement testing. The student's Level 2 overall score indicates he or she is not yet demonstrating readiness for mathematics college-level coursework. Review the information on the [HECC College Course Placement Web page](http://www.oregon.gov/highered/policy-collaboration/Pages/placement.aspx).
 
 - [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3358)
 - [Sample item: Problem Solving](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3334)
@@ -55,7 +55,7 @@ Under these agreements—which are a collaboration of the Community College Pres
 The student nearly met the grade eleven standard for mathematics needed for likely success in future coursework. Please discuss with the student’s teacher(s) steps to help the student improve.
 
 **Oregon Community College and Public university course placement agreements:**
-Under these agreements—which are a collaboration of the Community College Presidents,  University Provosts, the Higher Education Coordinating Commission (HECC), and the Oregon Department of Education—the student's Smarter Balanced test scores can factor into the processes for student placement into entry-level credit bearing college courses without need for additional placement testing. The student's Level 2 overall score indicates he or she is not yet demonstrating readiness for mathematics college-level coursework. Review the information on the [HECC College Course Placement Web page](http://www.oregon.gov/highered/policy-collaboration/Pages/placement.aspx).
+Under these agreements—which are a collaboration of the Community College Presidents,  University Provosts, the Higher Education Coordinating Commission (HECC), and the Oregon Department of Education—the student's assessment scores can factor into the processes for student placement into entry-level credit bearing college courses without need for additional placement testing. The student's Level 2 overall score indicates he or she is not yet demonstrating readiness for mathematics college-level coursework. Review the information on the [HECC College Course Placement Web page](http://www.oregon.gov/highered/policy-collaboration/Pages/placement.aspx).
 
 - [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3294)
 

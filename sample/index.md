@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Sample Oregon Student Score Report
+title: Sample Individual Student Report
 keywords: annotated score report, score report guide, handout
-description: This Web page provides an overview of the Oregon Student Score Report's layout and provides a downloadable PDF handout for easy offline use.
+description: This Web page provides an overview of the Oregon Individual Student Report’s layout and provides a downloadable PDF handout for easy offline use.
 ---
 
-# Understanding the Oregon Smarter Balanced Assessment Student Score Reports
+# Understanding the Oregon Individual Student Report
 
-The Student Score Report includes results from the Smarter Balanced English Language Arts and Mathematics tests, which reflect Oregon's rigorous academic standards. These tests include a wide range of questions and include tasks that ask students to explain how they solved problems. These tests also allow students to demonstrate analytical writing and critical thinking as well as their knowledge of facts. To learn more about these tests, visit the [Oregon Department of Education Student Assessment Web page](http://www.oregon.gov/ode/educator-resources/assessment/).
+The Student Score Report includes results from the English language arts and Mathematics assessments, which reflect Oregon’s rigorous academic standards. These tests include a wide range of questions and include tasks that ask students to explain how they solved problems. These tests also allow students to demonstrate analytical writing and critical thinking as well as their knowledge of facts. To learn more about these tests, visit the [Oregon Department of Education Student Assessment Web page](http://www.oregon.gov/ode/educator-resources/assessment/).
 
 <!--<button type="button" class="btn-blue" data-link="#">See Oregon Student Score Report Guides</button>
 
@@ -15,11 +15,11 @@ You can also watch the “Understanding the Oregon Student Score Report” video
 [English](#) or in [Spanish](#).-->
 
 
-## Student Oregon Score Report Sample
+## Sample Oregon Individual Student Report
 
 <div class="block" markdown="1">
 
-The following is a sample Student Score Report presented for illustrative purposes. Content differs for each grade.
+The following is a sample Individual Student Report presented for illustrative purposes. Content differs for each grade.
 
 [Download a PDF version of the sample here.]({{ site.baseurl }}/pdf/Sample_ISR_Mockup.pdf)
 

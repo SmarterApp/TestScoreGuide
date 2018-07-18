@@ -1,8 +1,8 @@
 ---
 layout: page-right-rail
 title: Resources
-keywords: parent guides, parent roadmaps, Oregon Department of Education, Oregon's Smarter Balanced Assessment, ODE website
-description: This Web page provides links to additional content, which parents/guardians, students, and interested educators can use to better understand Oregon's Smarter Balanced Individual Student Report.
+keywords: parent guides, parent roadmaps, Oregon Department of Education, Oregon Statewide Assessment System (OSAS), ODE website
+description: This Web page provides links to additional content, which parents/guardians, students, and interested educators can use to better understand Oregon’s Individual Student Report.
 
 sections:
    rail: |
@@ -11,12 +11,13 @@ sections:
 
 # Resources
 
-## Oregon's Smarter Balanced Assessment
+## About the Oregon Statewide Assessment System (OSAS)
 
-* The [Smarter Balanced website](http://www.smarterbalanced.org/about/) provides more information about the system and its components.
-*  Practice tests can be accessed via the [OAKS web portal](http://oaksportal.org/students/).
-* Oregon's state standards and more information regarding Smarter Balanced (including PD resources and other trainings) can be found on the [English language arts (ELA)](http://www.oregon.gov/ode/educator-resources/assessment/Pages/English-Language-Arts.aspx) and [mathematics](http://www.oregon.gov/ode/educator-resources/assessment/Pages/Mathematics.aspx) webpages.
-* For more information on the accessibility supports available for Smarter Balanced testing, visit the [Smarter Balanced Accessibility and Accommodations page](http://www.smarterbalanced.org/assessments/accessibility-and-accommodations/).
+* The [Oregon Department of Education, Student Assessment website](http://www.oregon.gov/ode/educator-resources/assessment/Pages/default.aspx) provides a more detailed overview of the Oregon Statewide Assessment System and its components.
+* The Oregon Mathematics and ELA sample tests can be accessed via the [Oregon web portal](http://origin.or.portal.airast.org/users/students.stml).
+* [Oregon’s rigorous content standards](http://www.oregon.gov/ode/educator-resources/standards/Pages/default.aspx) for English language arts (ELA), Mathematics, and other subjects.
+* For a brief introduction on the purpose of providing accessibility supports and examples available for the Oregon Mathematics and ELA assessment, reference our [Accessibilities and Accommodations document](https://www.oregon.gov/ode/educator-resources/assessment/Documents/Oregon_Parent_Friendly_Accessibilities_Fact_Sheet.pdf).
+
 
 ## Parent Roadmaps
 
@@ -26,5 +27,3 @@ These grade- and subject-specific documents provided by the Council of the Great
 * [Guía Para Los Padres (Spanish Parent Roadmaps)—Artes Del Lenguaje en Inglés](https://www.cgcs.org/Page/261)
 * [Parent Roadmaps to the Common Core Standards—Mathematics](https://www.cgcs.org/Page/244)
 * [Guía Para Los Padres (Spanish Parent Roadmaps)—Matemáticas](https://www.cgcs.org/Page/263)
-
-General information about Smarter Balanced can be found on the [Smarter Balanced website](http://www.smarterbalanced.org/).

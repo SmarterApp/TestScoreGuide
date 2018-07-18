@@ -17,7 +17,7 @@ In grade five, students continue to build their understanding of the place value
 
 ## Overall Achievement
 
-The student took a Smarter Balanced assessment based on the grade five [Oregon academic content standards](http://www.oregon.gov/ode/educator-resources/standards/Pages/default.aspx) for mathematics and received an overall score.
+The student took the assessment based on the grade five [Oregon academic content standards](http://www.oregon.gov/ode/educator-resources/standards/Pages/default.aspx) for mathematics and received an overall score.
 This overall score falls into one of the four achievement levels shown here. Sample test items may be included that exemplify the kinds of passages and questions that students at
 different levels of achievement would likely answer correctly.
 
