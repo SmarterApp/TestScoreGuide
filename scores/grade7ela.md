@@ -25,10 +25,10 @@ The student took a Smarter Balanced assessment based on the grade seven [Califor
 
 The student has made progress and exceeded the grade seven standard for English language arts/literacy. The student appears ready for future coursework.
 
-- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3186)
-- [Sample item: Writing](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3002)
-- [Sample item: Listening](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=2974)
-- [Sample item: Research/Inquiry](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=2944)
+- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/187-3186)
+- [Sample item: Writing](http://sampleitems.smarterbalanced.org/Item/187-3002)
+- [Sample item: Listening](http://sampleitems.smarterbalanced.org/Item/187-2974)
+- [Sample item: Research/Inquiry](http://sampleitems.smarterbalanced.org/Item/187-2944)
 
 </div>
 <div class="accordion" markdown="1">
@@ -37,9 +37,9 @@ The student has made progress and exceeded the grade seven standard for English 
 
 The student has made progress and met the grade seven standard for English language arts/literacy. The student appears ready for future coursework.
 
-- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3184)
-- [Sample item: Writing](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3035)
-- [Sample item: Listening](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=2982)
+- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/187-3184)
+- [Sample item: Writing](http://sampleitems.smarterbalanced.org/Item/187-3035)
+- [Sample item: Listening](http://sampleitems.smarterbalanced.org/Item/187-2982)
 
 </div>
 <div class="accordion" markdown="1">
@@ -48,9 +48,9 @@ The student has made progress and met the grade seven standard for English langu
 
 The student nearly met the grade seven standard for English language arts/literacy needed for likely success in future coursework. Please discuss with the student’s teacher(s) ways to help the student improve.
 
-- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3167)
-- [Sample item: Writing](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=2961)
-- [Sample item: Listening](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=2983)
+- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/187-3167)
+- [Sample item: Writing](http://sampleitems.smarterbalanced.org/Item/187-2961)
+- [Sample item: Listening](http://sampleitems.smarterbalanced.org/Item/187-2983)
 
 </div>
 <div class="accordion" markdown="1">
@@ -59,9 +59,9 @@ The student nearly met the grade seven standard for English language arts/litera
 
 The student did not meet the grade seven standard for English language arts/literacy needed for likely success in future coursework. Please discuss with the student’s teacher(s) ways to help the student improve.
 
-- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3169)
-- [Sample item: Writing](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3045)
-- [Sample item: Research/Inquiry](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=2934)
+- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/187-3169)
+- [Sample item: Writing](http://sampleitems.smarterbalanced.org/Item/187-3045)
+- [Sample item: Research/Inquiry](http://sampleitems.smarterbalanced.org/Item/187-2934)
 
 </div>
 

@@ -31,9 +31,9 @@ Under the EAP—which is a collaboration of the California State University (CSU
 California Assessment of Student Performance and Progress overall score indicates he or she is considered ready for English college-level work.
 Review the information on the [CSU Success Web page](http://csusuccess.org/) to see how this status can help avoid the need for additional testing upon entering a CSU or CCC.
 
-- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3109)
-- [Sample item: Writing](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3058)
-- [Sample item: Research/Inquiry](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3060)
+- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/187-3109)
+- [Sample item: Writing](http://sampleitems.smarterbalanced.org/Item/187-3058)
+- [Sample item: Research/Inquiry](http://sampleitems.smarterbalanced.org/Item/187-3060)
 
 </div>
 <div class="accordion" markdown="1">
@@ -46,10 +46,10 @@ Early Assessment Program (EAP) Status: Conditionally ready for English college-l
 
 Under the EAP—which is a collaboration of the California State University (CSU), participating California Community Colleges (CCCs), and the California Department of Education—the student’s California Assessment of Student Performance and Progress overall score indicates he or she is considered conditionally ready for English college-level work. Students earning a status of conditionally ready can be exempt from the CSU’s placement test and the Early Start Program by taking an approved senior year course and earning a grade of C or better. If the student earned a conditionally ready status, we encourage you to reach out to the administrators and teachers at the student’s school about enrolling the student in an approved senior year English course. In addition, review the information on the [CSU Success Web page](http://csusuccess.org/) to see how this status can help avoid the need for additional testing upon entering a CSU or CCC.
 
-- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3091)
-- [Sample item: Writing](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3067)
-- [Sample item: Listening](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3133)
-- [Sample item: Research/Inquiry](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3056)
+- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/187-3091)
+- [Sample item: Writing](http://sampleitems.smarterbalanced.org/Item/187-3067)
+- [Sample item: Listening](http://sampleitems.smarterbalanced.org/Item/187-3133)
+- [Sample item: Research/Inquiry](http://sampleitems.smarterbalanced.org/Item/187-3056)
 
 </div>
 <div class="accordion" markdown="1">
@@ -62,9 +62,9 @@ Early Assessment Program (EAP) Status: Not yet demonstrating readiness for Engli
 
 Under the EAP—which is a collaboration of the California State University (CSU), participating California Community Colleges (CCCs), and the California Department of Education—the student’s California Assessment of Student Performance and Progress overall score indicates he or she is not yet demonstrating readiness for English college-level coursework. Review the information on the [CSU Success Web page](http://csusuccess.org/) to see what the student needs to do to enroll in a CSU or CCC.
 
-- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3093)
-- [Sample item: Writing](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3147)
-- [Sample item: Listening](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3131)
+- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/187-3093)
+- [Sample item: Writing](http://sampleitems.smarterbalanced.org/Item/187-3147)
+- [Sample item: Listening](http://sampleitems.smarterbalanced.org/Item/187-3131)
 
 </div>
 <div class="accordion" markdown="1">
@@ -77,7 +77,7 @@ Early Assessment Program (EAP) Status: Not demonstrating readiness for English c
 
 Under the EAP—which is a collaboration of the California State University (CSU), participating California Community Colleges (CCCs), and the California Department of Education—the student’s California Assessment of Student Performance and Progress overall score indicates he or she is not demonstrating readiness for English college-level coursework. Review the information on the [CSU Success Web page](http://csusuccess.org/) to see what the student needs to do to enroll in a CSU or CCC.
 
-- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3104)
+- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/187-3104)
 
 </div>
 

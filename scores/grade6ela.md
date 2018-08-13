@@ -25,10 +25,10 @@ The student took a Smarter Balanced assessment based on the grade six [Californi
 
 The student has made progress and exceeded the grade six standard for English language arts/literacy. The student appears ready for future coursework.
 
-- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3013)
-- [Sample item: Writing](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3000)
-- [Sample item: Listening](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=2946)
-- [Sample item: Research/Inquiry](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=2979)
+- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/187-3013)
+- [Sample item: Writing](http://sampleitems.smarterbalanced.org/Item/187-3000)
+- [Sample item: Listening](http://sampleitems.smarterbalanced.org/Item/187-2946)
+- [Sample item: Research/Inquiry](http://sampleitems.smarterbalanced.org/Item/187-2979)
 
 </div>
 <div class="accordion" markdown="1">
@@ -37,9 +37,9 @@ The student has made progress and exceeded the grade six standard for English la
 
 The student has made progress and met the grade six standard for English language arts/literacy. The student appears ready for future coursework.
 
-- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3012)
-- [Sample item: Writing](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=2963)
-- [Sample item: Listening](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=2975)
+- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/187-3012)
+- [Sample item: Writing](http://sampleitems.smarterbalanced.org/Item/187-2963)
+- [Sample item: Listening](http://sampleitems.smarterbalanced.org/Item/187-2975)
 
 </div>
 <div class="accordion" markdown="1">
@@ -48,9 +48,9 @@ The student has made progress and met the grade six standard for English languag
 
 The student nearly met the grade six standard for English language arts/literacy needed for likely success in future coursework. Please discuss with the student’s teacher(s) ways to help the student improve.
 
-- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3014)
-- [Sample item: Listening](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=2947)
-- [Sample item: Research/Inquiry](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=2992)
+- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/187-3014)
+- [Sample item: Listening](http://sampleitems.smarterbalanced.org/Item/187-2947)
+- [Sample item: Research/Inquiry](http://sampleitems.smarterbalanced.org/Item/187-2992)
 
 </div>
 <div class="accordion" markdown="1">
@@ -59,8 +59,8 @@ The student nearly met the grade six standard for English language arts/literacy
 
 The student did not meet the grade six standard for English language arts/literacy needed for likely success in future coursework. Please discuss with the student’s teacher(s) ways to help the student improve.
 
-- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3022)
-- [Sample item: Writing](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3041)
+- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/187-3022)
+- [Sample item: Writing](http://sampleitems.smarterbalanced.org/Item/187-3041)
 
 </div>
 

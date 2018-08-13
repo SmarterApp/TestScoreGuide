@@ -25,8 +25,8 @@ The student took a Smarter Balanced assessment based on the grade three [Califor
 
 The student has made progress and exceeded the grade three standard for mathematics. The student appears ready for future coursework.
 
-- [Sample item: Communicating Reasoning](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3597)
-- [Sample item: Modeling/Data Analysis](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3268)
+- [Sample item: Communicating Reasoning](http://sampleitems.smarterbalanced.org/Item/187-3597)
+- [Sample item: Modeling/Data Analysis](http://sampleitems.smarterbalanced.org/Item/187-3268)
 
 
 </div>
@@ -36,9 +36,9 @@ The student has made progress and exceeded the grade three standard for mathemat
 
 The student has made progress and met the grade three standard for mathematics. The student appears ready for future coursework.
 
-- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3393)
-- [Sample item: Problem Solving](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3625)
-- [Sample item: Communicating Reasoning](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3481)
+- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/187-3393)
+- [Sample item: Problem Solving](http://sampleitems.smarterbalanced.org/Item/187-3625)
+- [Sample item: Communicating Reasoning](http://sampleitems.smarterbalanced.org/Item/187-3481)
 
 </div>
 <div class="accordion" markdown="1">
@@ -47,9 +47,9 @@ The student has made progress and met the grade three standard for mathematics. 
 
 The student nearly met the grade three standard for mathematics needed for likely success in future coursework. Please discuss with the student’s teacher(s) ways to help the student improve.
 
-- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3246)
-- [Sample item: Problem Solving](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3631)
-- [Sample item: Communicating Reasoning](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3350)
+- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/187-3246)
+- [Sample item: Problem Solving](http://sampleitems.smarterbalanced.org/Item/187-3631)
+- [Sample item: Communicating Reasoning](http://sampleitems.smarterbalanced.org/Item/187-3350)
 
 </div>
 <div class="accordion" markdown="1">
@@ -58,8 +58,8 @@ The student nearly met the grade three standard for mathematics needed for likel
 
 The student did not meet the grade three standard for mathematics needed for likely success in future coursework. Please discuss with the student’s teacher(s) ways to help the student improve.
 
-- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3643)
-- [Sample item: Communicating Reasoning](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3340)
+- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/187-3643)
+- [Sample item: Communicating Reasoning](http://sampleitems.smarterbalanced.org/Item/187-3340)
 
 </div>
 

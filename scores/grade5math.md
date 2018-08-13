@@ -27,10 +27,9 @@ different levels of achievement would likely answer correctly.
 
 The student has made progress and exceeded the grade five standard for mathematics. The student appears ready for future coursework.
 
-- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3605)
-- [Sample item: Problem Solving](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3284)
-- [Sample item: Communicating Reasoning](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3549)
-- [Sample item: Modeling/Data Analysis](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3260)
+- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/187-3605)
+- [Sample item: Problem Solving](http://sampleitems.smarterbalanced.org/Item/187-3284)
+- [Sample item: Communicating Reasoning](http://sampleitems.smarterbalanced.org/Item/187-3549)
 
 </div>
 <div class="accordion" markdown="1">
@@ -39,9 +38,9 @@ The student has made progress and exceeded the grade five standard for mathemati
 
 The student has made progress and met the grade five standard for mathematics. The student appears ready for future coursework.
 
-- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3463)
-- [Sample item: Communicating Reasoning](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3320)
-- [Sample item: Modeling/Data Analysis](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3354)
+- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/187-3463)
+- [Sample item: Communicating Reasoning](http://sampleitems.smarterbalanced.org/Item/187-3320)
+- [Sample item: Modeling/Data Analysis](http://sampleitems.smarterbalanced.org/Item/187-3354)
 
 </div>
 <div class="accordion" markdown="1">
@@ -50,10 +49,10 @@ The student has made progress and met the grade five standard for mathematics. T
 
 The student nearly met the grade five standard for mathematics needed for likely success in future coursework. Please discuss with the student’s teacher(s) ways to help the student improve.
 
-- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3240)
-- [Sample item: Problem Solving](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3395)
-- [Sample item: Communicating Reasoning](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3266)
-- [Sample item: Modeling/Data Analysis](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3274)
+- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/187-3240)
+- [Sample item: Problem Solving](http://sampleitems.smarterbalanced.org/Item/187-3395)
+- [Sample item: Communicating Reasoning](http://sampleitems.smarterbalanced.org/Item/187-3266)
+- [Sample item: Modeling/Data Analysis](http://sampleitems.smarterbalanced.org/Item/187-3274)
 
 </div>
 <div class="accordion" markdown="1">
@@ -62,8 +61,8 @@ The student nearly met the grade five standard for mathematics needed for likely
 
 The student did not meet the grade five standard for mathematics needed for likely success in future coursework. Please discuss with the student’s teacher(s) ways to help the student improve.
 
-- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3238)
-- [Sample item: Communicating Reasoning](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3364)
+- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/187-3238)
+- [Sample item: Communicating Reasoning](http://sampleitems.smarterbalanced.org/Item/187-3364)
 
 </div>
 
