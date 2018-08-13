@@ -25,9 +25,9 @@ The student took a Smarter Balanced assessment based on the grade ten [Idaho Con
 
 The student exceeded the grade ten standard for mathematics and is ready for future coursework.
 
-- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3270)
-- [Sample item: Problem Solving](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3352)
-- [Sample item: Communicating Reasoning](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3342)
+- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/187-3270)
+- [Sample item: Problem Solving](http://sampleitems.smarterbalanced.org/Item/187-3352)
+- [Sample item: Communicating Reasoning](http://sampleitems.smarterbalanced.org/Item/187-3342)
 
 </div>
 <div class="accordion" markdown="1">
@@ -36,10 +36,10 @@ The student exceeded the grade ten standard for mathematics and is ready for fut
 
 The student met the grade ten standard for mathematics and appears ready for future coursework.
 
-- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3358)
-- [Sample item: Problem Solving](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3334)
-- [Sample item: Communicating Reasoning](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3381)
-- [Sample item: Modeling/Data Analysis](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3318)
+- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/187-3358)
+- [Sample item: Problem Solving](http://sampleitems.smarterbalanced.org/Item/187-3334)
+- [Sample item: Communicating Reasoning](http://sampleitems.smarterbalanced.org/Item/187-3381)
+- [Sample item: Modeling/Data Analysis](http://sampleitems.smarterbalanced.org/Item/187-3318)
 
 </div>
 <div class="accordion" markdown="1">
@@ -48,7 +48,7 @@ The student met the grade ten standard for mathematics and appears ready for fut
 
 The student nearly met the grade ten standard for mathematics needed for likely success in future coursework. Please discuss with the student’s teacher(s) steps to help the student improve.
 
-- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3294)
+- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/187-3294)
 
 </div>
 <div class="accordion" markdown="1">
@@ -57,8 +57,8 @@ The student nearly met the grade ten standard for mathematics needed for likely 
 
 The student did not meet the grade ten standard for mathematics and did not demonstrate readiness for future coursework. Please discuss with the student’s teacher(s) steps to help the student improve.
 
-- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3348)
-- [Sample item: Communicating Reasoning](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3308)
+- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/187-3348)
+- [Sample item: Communicating Reasoning](http://sampleitems.smarterbalanced.org/Item/187-3308)
 
 </div>
 

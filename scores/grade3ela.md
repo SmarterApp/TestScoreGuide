@@ -25,10 +25,10 @@ The student took a Smarter Balanced assessment based on the grade three [Idaho C
 
 The student has made progress and exceeded the grade three standard for English language arts/literacy. The student appears ready for future coursework.
 
-- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=2889)
-- [Sample item: Writing](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=2912)
-- [Sample item: Listening](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=2863)
-- [Sample item: Research/Inquiry](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=2926)
+- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/187-2889)
+- [Sample item: Writing](http://sampleitems.smarterbalanced.org/Item/187-2912)
+- [Sample item: Listening](http://sampleitems.smarterbalanced.org/Item/187-2863)
+- [Sample item: Research/Inquiry](http://sampleitems.smarterbalanced.org/Item/187-2926)
 
 </div>
 <div class="accordion" markdown="1">
@@ -37,8 +37,8 @@ The student has made progress and exceeded the grade three standard for English 
 
 The student has made progress and met the grade three standard for English language arts/literacy. The student appears ready for future coursework.
 
-- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3163)
-- [Sample item: Research/Inquiry](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=2876)
+- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/187-3163)
+- [Sample item: Research/Inquiry](http://sampleitems.smarterbalanced.org/Item/187-2876)
 
 </div>
 <div class="accordion" markdown="1">
@@ -47,8 +47,8 @@ The student has made progress and met the grade three standard for English langu
 
 The student nearly met the grade three standard for English language arts/literacy needed for likely success in future coursework. Please discuss with the student’s teacher(s) ways to help the student improve.
 
-- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3160)
-- [Sample item: Listening](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=2831)
+- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/187-3160)
+- [Sample item: Listening](http://sampleitems.smarterbalanced.org/Item/187-2831)
 
 </div>
 <div class="accordion" markdown="1">
@@ -57,7 +57,7 @@ The student nearly met the grade three standard for English language arts/litera
 
 The student did not meet the grade three standard for English language arts/literacy needed for likely success in future coursework. Please discuss with the student’s teacher(s) ways to help the student improve.
 
-- [Sample item: Listening](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=2825)
+- [Sample item: Listening](http://sampleitems.smarterbalanced.org/Item/187-2825)
 
 </div>
 

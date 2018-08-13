@@ -25,9 +25,9 @@ The student took a Smarter Balanced assessment based on the grade nine [Idaho Co
 
 The student exceeded the grade nine standard for English language arts/literacy and is ready for future coursework.
 
-- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3109)
-- [Sample item: Writing](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3058)
-- [Sample item: Research/Inquiry](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3060)
+- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/187-3109)
+- [Sample item: Writing](http://sampleitems.smarterbalanced.org/Item/187-3058)
+- [Sample item: Research/Inquiry](http://sampleitems.smarterbalanced.org/Item/187-3060)
 
 </div>
 <div class="accordion" markdown="1">
@@ -36,10 +36,10 @@ The student exceeded the grade nine standard for English language arts/literacy 
 
 The student met the grade nine standard for English language arts/literacy and appears ready for future coursework.
 
-- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3091)
-- [Sample item: Writing](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3067)
-- [Sample item: Listening](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3133)
-- [Sample item: Research/Inquiry](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3056)
+- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/187-3091)
+- [Sample item: Writing](http://sampleitems.smarterbalanced.org/Item/187-3067)
+- [Sample item: Listening](http://sampleitems.smarterbalanced.org/Item/187-3133)
+- [Sample item: Research/Inquiry](http://sampleitems.smarterbalanced.org/Item/187-3056)
 
 </div>
 <div class="accordion" markdown="1">
@@ -48,9 +48,9 @@ The student met the grade nine standard for English language arts/literacy and a
 
 The student nearly met the grade nine standard for English language arts/literacy needed for likely success in future coursework. Please discuss with the student’s teacher(s) steps to help the student improve.
 
-- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3093)
-- [Sample item: Writing](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3147)
-- [Sample item: Listening](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3131)
+- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/187-3093)
+- [Sample item: Writing](http://sampleitems.smarterbalanced.org/Item/187-3147)
+- [Sample item: Listening](http://sampleitems.smarterbalanced.org/Item/187-3131)
 
 </div>
 <div class="accordion" markdown="1">
@@ -59,7 +59,7 @@ The student nearly met the grade nine standard for English language arts/literac
 
 The student did not meet the grade nine standard for English language arts/literacy and did not demonstrate readiness for future coursework. Please discuss with the student’s teacher(s) steps to help the student improve.
 
-- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3104)
+- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/187-3104)
 
 </div>
 
