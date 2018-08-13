@@ -28,9 +28,9 @@ The student exceeded the grade eleven standard for mathematics and is ready for 
 **Oregon Community College and Public university course placement agreements:**
 Under these agreements—which are a collaboration of the Community College Presidents,  University Provosts, the Higher Education Coordinating Commission (HECC), and the Oregon Department of Education—the student's assessment scores can factor into the processes for student placement into entry-level credit bearing college courses without need for additional placement testing. The student's Level 2 overall score indicates he or she is not yet demonstrating readiness for mathematics college-level coursework. Review the information on the [HECC College Course Placement Web page](http://www.oregon.gov/highered/policy-collaboration/Pages/placement.aspx).
 
-- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3270)
-- [Sample item: Problem Solving](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3352)
-- [Sample item: Communicating Reasoning](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3342)
+- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/187-3270)
+- [Sample item: Problem Solving](http://sampleitems.smarterbalanced.org/Item/187-3352)
+- [Sample item: Communicating Reasoning](http://sampleitems.smarterbalanced.org/Item/187-3342)
 
 </div>
 <div class="accordion" markdown="1">
@@ -42,10 +42,10 @@ The student met the grade eleven standard for mathematics and appears ready for 
 **Oregon Community College and Public university course placement agreements:**
 Under these agreements—which are a collaboration of the Community College Presidents,  University Provosts, the Higher Education Coordinating Commission (HECC), and the Oregon Department of Education—the student's assessment scores can factor into the processes for student placement into entry-level credit bearing college courses without need for additional placement testing. The student's Level 2 overall score indicates he or she is not yet demonstrating readiness for mathematics college-level coursework. Review the information on the [HECC College Course Placement Web page](http://www.oregon.gov/highered/policy-collaboration/Pages/placement.aspx).
 
-- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3358)
-- [Sample item: Problem Solving](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3334)
-- [Sample item: Communicating Reasoning](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3381)
-- [Sample item: Modeling/Data Analysis](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3318)
+- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/187-3358)
+- [Sample item: Problem Solving](http://sampleitems.smarterbalanced.org/Item/187-3334)
+- [Sample item: Communicating Reasoning](http://sampleitems.smarterbalanced.org/Item/187-3381)
+- [Sample item: Modeling/Data Analysis](http://sampleitems.smarterbalanced.org/Item/187-3318)
 
 </div>
 <div class="accordion" markdown="1">
@@ -57,7 +57,7 @@ The student nearly met the grade eleven standard for mathematics needed for like
 **Oregon Community College and Public university course placement agreements:**
 Under these agreements—which are a collaboration of the Community College Presidents,  University Provosts, the Higher Education Coordinating Commission (HECC), and the Oregon Department of Education—the student's assessment scores can factor into the processes for student placement into entry-level credit bearing college courses without need for additional placement testing. The student's Level 2 overall score indicates he or she is not yet demonstrating readiness for mathematics college-level coursework. Review the information on the [HECC College Course Placement Web page](http://www.oregon.gov/highered/policy-collaboration/Pages/placement.aspx).
 
-- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3294)
+- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/187-3294)
 
 </div>
 <div class="accordion" markdown="1">
@@ -66,8 +66,8 @@ Under these agreements—which are a collaboration of the Community College Pres
 
 The student did not meet the grade eleven standard for mathematics and did not demonstrate readiness for future coursework. Please discuss with the student’s teacher(s) steps to help the student improve.
 
-- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3348)
-- [Sample item: Communicating Reasoning](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3308)
+- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/187-3348)
+- [Sample item: Communicating Reasoning](http://sampleitems.smarterbalanced.org/Item/187-3308)
 
 </div>
 

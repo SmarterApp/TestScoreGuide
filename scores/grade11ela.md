@@ -28,9 +28,9 @@ The student exceeded the grade eleven standard for English language arts and is 
 **Oregon Community College and Public university course placement agreements:**
 Under these agreements—which are a collaboration of the Community College Presidents,  University Provosts, the Higher Education Coordinating Commission (HECC), and the Oregon Department of Education—the student's assessment scores can factor into the processes for student placement into entry-level credit bearing college courses without need for additional placement testing. The student's Level 2 overall score indicates he or she is not yet demonstrating readiness for mathematics college-level coursework. Review the information on the [HECC College Course Placement Web page](http://www.oregon.gov/highered/policy-collaboration/Pages/placement.aspx).
 
-- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3109)
-- [Sample item: Writing](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3058)
-- [Sample item: Research](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3060)
+- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/187-3109)
+- [Sample item: Writing](http://sampleitems.smarterbalanced.org/Item/187-3058)
+- [Sample item: Research](http://sampleitems.smarterbalanced.org/Item/187-3060)
 
 </div>
 <div class="accordion" markdown="1">
@@ -42,10 +42,10 @@ The student met the grade eleven standard for English language arts and appears 
 **Oregon Community College and Public university course placement agreements:**
 Under these agreements—which are a collaboration of the Community College Presidents,  University Provosts, the Higher Education Coordinating Commission (HECC), and the Oregon Department of Education—the student's assessment scores can factor into the processes for student placement into entry-level credit bearing college courses without need for additional placement testing. The student's Level 2 overall score indicates he or she is not yet demonstrating readiness for mathematics college-level coursework. Review the information on the [HECC College Course Placement Web page](http://www.oregon.gov/highered/policy-collaboration/Pages/placement.aspx).
 
-- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3091)
-- [Sample item: Writing](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3067)
-- [Sample item: Listening](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3133)
-- [Sample item: Research](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3056)
+- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/187-3091)
+- [Sample item: Writing](http://sampleitems.smarterbalanced.org/Item/187-3067)
+- [Sample item: Listening](http://sampleitems.smarterbalanced.org/Item/187-3133)
+- [Sample item: Research](http://sampleitems.smarterbalanced.org/Item/187-3056)
 
 </div>
 <div class="accordion" markdown="1">
@@ -54,9 +54,9 @@ Under these agreements—which are a collaboration of the Community College Pres
 
 The student nearly met the grade eleven standard for English language arts needed for likely success in future coursework. Please discuss with the student’s teacher(s) steps to help the student improve.
 
-- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3093)
-- [Sample item: Writing](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3147)
-- [Sample item: Listening](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3131)
+- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/187-3093)
+- [Sample item: Writing](http://sampleitems.smarterbalanced.org/Item/187-3147)
+- [Sample item: Listening](http://sampleitems.smarterbalanced.org/Item/187-3131)
 
 </div>
 <div class="accordion" markdown="1">
@@ -65,7 +65,7 @@ The student nearly met the grade eleven standard for English language arts neede
 
 The student did not meet the grade eleven standard for English language arts and did not demonstrate readiness for future coursework. Please discuss with the student’s teacher(s) steps to help the student improve.
 
-- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3104)
+- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/187-3104)
 
 </div>
 

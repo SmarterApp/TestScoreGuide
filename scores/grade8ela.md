@@ -25,10 +25,10 @@ The student took the assessment based on the grade eight [Oregon academic conten
 
 The student has made progress and exceeded the grade eight standard for English language arts. The student appears ready for future coursework.
 
-- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3154)
-- [Sample item: Writing](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3074)
-- [Sample item: Listening](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3065)
-- [Sample item: Research](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3054)
+- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/187-3154)
+- [Sample item: Writing](http://sampleitems.smarterbalanced.org/Item/187-3074)
+- [Sample item: Listening](http://sampleitems.smarterbalanced.org/Item/187-3065)
+- [Sample item: Research](http://sampleitems.smarterbalanced.org/Item/187-3054)
 
 </div>
 <div class="accordion" markdown="1">
@@ -37,9 +37,9 @@ The student has made progress and exceeded the grade eight standard for English 
 
 The student has made progress and met the grade eight standard for English language arts. The student appears ready for future coursework.
 
-- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3119)
-- [Sample item: Writing](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3141)
-- [Sample item: Listening](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3068)
+- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/187-3119)
+- [Sample item: Writing](http://sampleitems.smarterbalanced.org/Item/187-3141)
+- [Sample item: Listening](http://sampleitems.smarterbalanced.org/Item/187-3068)
 
 </div>
 <div class="accordion" markdown="1">
@@ -48,9 +48,9 @@ The student has made progress and met the grade eight standard for English langu
 
 The student nearly met the grade eight standard for English language arts needed for likely success in future coursework. Please discuss with the student’s teacher(s) ways to help the student improve.
 
-- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3127)
-- [Sample item: Writing](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3145)
-- [Sample item: Listening](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3070)
+- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/187-3127)
+- [Sample item: Writing](http://sampleitems.smarterbalanced.org/Item/187-3145)
+- [Sample item: Listening](http://sampleitems.smarterbalanced.org/Item/187-3070)
 
 </div>
 <div class="accordion" markdown="1">
@@ -59,8 +59,8 @@ The student nearly met the grade eight standard for English language arts needed
 
 The student did not meet the grade eight standard for English language arts needed for likely success in future coursework. Please discuss with the student’s teacher(s) ways to help the student improve.
 
-- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3158)
-- [Sample item: Listening](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3070)
+- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/187-3158)
+- [Sample item: Listening](http://sampleitems.smarterbalanced.org/Item/187-3070)
 
 </div>
 
