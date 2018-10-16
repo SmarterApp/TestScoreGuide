@@ -73,7 +73,7 @@ Problem Solving and Modeling/Data Analysis, and Communicating Reasoning. These t
 
 If the student did not receive a score for any claim, this means he or she did not complete enough items to receive claim scores.
 
-To view a description of the student’s achievement level claim (i.e., area), select either **Above Standard**, **Near Standard**, or **Below Standard** from the student-level selections available in the table below.
+To view a description of the student’s achievement level claim (i.e., area), select either **Level 4**, **Level 3 or 2**, or **Level 1** from the student-level selections available in the table below.
 
 <div class="by-claim concepts">
 	<div class="claim">
@@ -82,20 +82,20 @@ To view a description of the student’s achievement level claim (i.e., area), s
 	</div>
 	<div class="standards" aria-live="polite">
 		<div class="triggers" aria-hidden="true">
-			<a href="" id="trigger-concepts-above">Above Standard</a>
-			<a href="" id="trigger-concepts-near">Near Standard</a>
-			<a href="" id="trigger-concepts-below">Below Standard</a>
+			<a href="" id="trigger-concepts-above">Level 4</a>
+			<a href="" id="trigger-concepts-near">Level 3 or 2</a>
+			<a href="" id="trigger-concepts-below">Level 1</a>
 		</div>
 		<div id="concepts-above" class="std">
-			<p class="hide">Above Standard</p>
+			<p class="hide">Level 4</p>
 			<p>The student demonstrates a thorough ability to consistently explain and apply mathematical concepts, and the ability to interpret and carry out mathematical procedures with ease and accuracy.</p>
 		</div>
 		<div id="concepts-near" class="std">
-			<p class="hide">At or Near Standard</p>
+			<p class="hide">At or Level 3 or 2</p>
 			<p>The student demonstrates some ability to explain and apply mathematical concepts, and the ability to interpret and carry out mathematical procedures with ease and accuracy.</p>
 		</div>
 		<div id="concepts-below" class="std">
-			<p class="hide">Below Standard</p>
+			<p class="hide">Level 1</p>
 			<p>The student does not yet demonstrate the ability to explain and apply mathematical concepts, or the ability to interpret and carry out mathematical procedures with ease and accuracy.</p>
 		</div>
 	</div>
@@ -109,20 +109,20 @@ To view a description of the student’s achievement level claim (i.e., area), s
 	</div>
 	<div class="standards" aria-live="polite">
 		<div class="triggers" aria-hidden="true">
-			<a href="" id="trigger-solving-above">Above Standard</a>
-			<a href="" id="trigger-solving-near">Near Standard</a>
-			<a href="" id="trigger-solving-below">Below Standard</a>
+			<a href="" id="trigger-solving-above">Level 4</a>
+			<a href="" id="trigger-solving-near">Level 3 or 2</a>
+			<a href="" id="trigger-solving-below">Level 1</a>
 		</div>
 		<div id="solving-above" class="std">
-			<p class="hide">Above Standard</p>
+			<p class="hide">Level 4</p>
 			<p>The student demonstrates a thorough ability to consistently solve a variety of well-posed mathematics problems by applying his or her knowledge of problem-solving skills and strategies. The student also demonstrates a strong ability to analyze real-world problems, and can build and use mathematical models to interpret and solve problems.</p>
 		</div>
 		<div id="solving-near" class="std">
-			<p class="hide">At or Near Standard</p>
+			<p class="hide">At or Level 3 or 2</p>
 			<p>The student demonstrates some ability to solve well-posed mathematics problems by applying his or her knowledge of problem-solving skills and strategies. The student also demonstrates some ability to analyze real-world problems, and can build and use mathematical models to interpret and solve problems.</p>
 		</div>
 		<div id="solving-below" class="std">
-			<p class="hide">Below Standard</p>
+			<p class="hide">Level 1</p>
 			<p>The student does not yet demonstrate the ability to solve a variety of mathematics problems by applying his or her knowledge of problem-solving skills and strategies. The student does not yet demonstrate the ability to analyze real-world problems, or build and use mathematical models to interpret and solve problems.</p>
 		</div>
 	</div>
@@ -144,20 +144,20 @@ To view a description of the student’s achievement level claim (i.e., area), s
 	</div>
 	<div class="standards" aria-live="polite">
 		<div class="triggers" aria-hidden="true">
-			<a href="" id="trigger-reasoning-above">Above Standard</a>
-			<a href="" id="trigger-reasoning-near">Near Standard</a>
-			<a href="" id="trigger-reasoning-below">Below Standard</a>
+			<a href="" id="trigger-reasoning-above">Level 4</a>
+			<a href="" id="trigger-reasoning-near">Level 3 or 2</a>
+			<a href="" id="trigger-reasoning-below">Level 1</a>
 		</div>
 		<div id="reasoning-above" class="std">
-			<p class="hide">Above Standard</p>
+			<p class="hide">Level 4</p>
 			<p>The student demonstrates a thorough ability to clearly and precisely put together valid arguments to support his or her own mathematical thinking and to critique the reasoning of others.</p>
 		</div>
 		<div id="reasoning-near" class="std">
-			<p class="hide">At or Near Standard</p>
+			<p class="hide">At or Level 3 or 2</p>
 			<p>The student demonstrates some ability to clearly and precisely put together valid arguments to support his or her own mathematical thinking and to critique the reasoning of others.</p>
 		</div>
 		<div id="reasoning-below" class="std">
-			<p class="hide">Below Standard</p>
+			<p class="hide">Level 1</p>
 			<p>The student does not yet demonstrate the ability to put together valid arguments to support his or her own mathematical thinking or to critique the reasoning of others.</p>
 		</div>
 	</div>

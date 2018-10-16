@@ -70,7 +70,7 @@ which describe the knowledge and skills students are expected to learn in grade 
 
 If the student did not receive a score for any claim, this means he or she did not complete enough items to receive claim scores.
 
-To view a description of the student’s achievement level claim (i.e., area), select either **Above Standard**, **Near Standard**, or **Below Standard** from the student-level selections available in the table below.
+To view a description of the student’s achievement level claim (i.e., area), select either **Level 4**, **Level 3 or 2**, or **Level 1** from the student-level selections available in the table below.
 
 <div class="by-claim reading">
 	<div class="claim">
@@ -88,20 +88,20 @@ To view a description of the student’s achievement level claim (i.e., area), s
 	</div>
 	<div class="standards" aria-live="polite">
 		<div class="triggers" aria-hidden="true">
-			<a href="" id="trigger-reading-above">Above Standard</a>
-			<a href="" id="trigger-reading-near">Near Standard</a>
-			<a href="" id="trigger-reading-below">Below Standard</a>
+			<a href="" id="trigger-reading-above">Level 4</a>
+			<a href="" id="trigger-reading-near">Level 3 or 2</a>
+			<a href="" id="trigger-reading-below">Level 1</a>
 		</div>
 		<div id="reading-above" class="std">
-			<p class="hide">Above Standard</p>
+			<p class="hide">Level 4</p>
 			<p>The student demonstrates a thorough ability to read closely and analytically to understand a range of literary texts (e.g., stories, plays, and poems) and informational texts (e.g., articles and other writing covering disciplines like science and social studies) of high complexity.</p>
 		</div>
 		<div id="reading-near" class="std">
-			<p class="hide">Near Standard</p>
+			<p class="hide">Level 3 or 2</p>
 			<p>The student demonstrates some ability to read closely and analytically to understand a range of literary texts (e.g., stories, plays, and poems) and informational texts (e.g., articles and other writing covering disciplines like science and social studies) of moderate complexity.</p>
 		</div>
 		<div id="reading-below" class="std">
-			<p class="hide">Below Standard</p>
+			<p class="hide">Level 1</p>
 			<p>The student does not yet demonstrate an ability to read closely and analytically to understand a range of literary texts (e.g., stories, plays, and poems) and informational texts (e.g., articles and other writing covering disciplines like science and social studies) of moderate complexity.</p>
 		</div>
 	</div>
@@ -123,20 +123,20 @@ To view a description of the student’s achievement level claim (i.e., area), s
 	</div>
 	<div class="standards" aria-live="polite">
 		<div class="triggers" aria-hidden="true">
-			<a href="" id="trigger-writing-above">Above Standard</a>
-			<a href="" id="trigger-writing-near">Near Standard</a>
-			<a href="" id="trigger-writing-below">Below Standard</a>
+			<a href="" id="trigger-writing-above">Level 4</a>
+			<a href="" id="trigger-writing-near">Level 3 or 2</a>
+			<a href="" id="trigger-writing-below">Level 1</a>
 		</div>
 		<div id="writing-above" class="std">
-			<p class="hide">Above Standard</p>
+			<p class="hide">Level 4</p>
 			<p>The student demonstrates a thorough ability to produce well-organized, developed, and supported writing (e.g., narrative, informational, explanatory, and opinion) for different purposes and audiences.</p>
 		</div>
 		<div id="writing-near" class="std">
-			<p class="hide">Near Standard</p>
+			<p class="hide">Level 3 or 2</p>
 			<p>The student demonstrates some ability to produce organized, developed, and supported writing (e.g., narrative, informational, explanatory, and opinion) for different purposes and audiences.</p>
 		</div>
 		<div id="writing-below" class="std">
-			<p class="hide">Below Standard</p>
+			<p class="hide">Level 1</p>
 			<p>The student does not yet demonstrate an ability to produce organized, developed, and supported writing (e.g., narrative, informational, explanatory, and opinion) for different purposes and audiences.</p>
 		</div>
 	</div>
@@ -151,20 +151,20 @@ To view a description of the student’s achievement level claim (i.e., area), s
 	</div>
 	<div class="standards">
 		<div class="triggers" aria-hidden="true">
-			<a href="" id="trigger-listening-above">Above Standard</a>
-			<a href="" id="trigger-listening-near">Near Standard</a>
-			<a href="" id="trigger-listening-below">Below Standard</a>
+			<a href="" id="trigger-listening-above">Level 4</a>
+			<a href="" id="trigger-listening-near">Level 3 or 2</a>
+			<a href="" id="trigger-listening-below">Level 1</a>
 		</div>
 		<div id="listening-above" class="std">
-			<p class="hide">Above Standard</p>
+			<p class="hide">Level 4</p>
 			<p>The student demonstrates a thorough ability to use effective listening skills for a range of purposes and audiences.</p>
 		</div>
 		<div id="listening-near" class="std">
-			<p class="hide">Near Standard</p>
+			<p class="hide">Level 3 or 2</p>
 			<p>The student demonstrates some ability to use effective listening skills for a range of purposes and audiences.</p>
 		</div>
 		<div id="listening-below" class="std">
-			<p class="hide">Below Standard</p>
+			<p class="hide">Level 1</p>
 			<p>The student does not yet demonstrate the ability to use effective listening skills.</p>
 		</div>
 	</div>
@@ -183,20 +183,20 @@ To view a description of the student’s achievement level claim (i.e., area), s
 	</div>
 	<div class="standards" aria-live="polite">
 		<div class="triggers" aria-hidden="true">
-			<a href="" id="trigger-research-above">Above Standard</a>
-			<a href="" id="trigger-research-near">Near Standard</a>
-			<a href="" id="trigger-research-below">Below Standard</a>
+			<a href="" id="trigger-research-above">Level 4</a>
+			<a href="" id="trigger-research-near">Level 3 or 2</a>
+			<a href="" id="trigger-research-below">Level 1</a>
 		</div>
 		<div id="research-above" class="std">
-			<p class="hide">Above Standard</p>
+			<p class="hide">Level 4</p>
 			<p>The student demonstrates a thorough ability to engage in research and inquiry to investigate topics, and to analyze, integrate, and present information.</p>
 		</div>
 		<div id="research-near" class="std">
-			<p class="hide">Near Standard</p>
+			<p class="hide">Level 3 or 2</p>
 			<p>The student demonstrates some ability to engage in research and inquiry to investigate topics, and to analyze, integrate, and present information.</p>
 		</div>
 		<div id="research-below" class="std">
-			<p class="hide">Below Standard</p>
+			<p class="hide">Level 1</p>
 			<p>The student does not yet demonstrate the ability to engage in research and inquiry to investigate topics, and to analyze, integrate, and present information.</p>
 		</div>
 	</div>
