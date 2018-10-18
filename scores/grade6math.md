@@ -80,7 +80,7 @@ To view a description of the student’s achievement level claim (i.e., area), s
 	<div class="standards" aria-live="polite">
 		<div class="triggers" aria-hidden="true">
 			<a href="" id="trigger-concepts-above">Level 4</a>
-			<a href="" id="trigger-concepts-near">Level 3 or 2</a>
+			<a href="" id="trigger-concepts-near">Level 3 <br>or <br>Level 2</a>
 			<a href="" id="trigger-concepts-below">Level 1</a>
 		</div>
 		<div id="concepts-above" class="std">
@@ -107,7 +107,7 @@ To view a description of the student’s achievement level claim (i.e., area), s
 	<div class="standards" aria-live="polite">
 		<div class="triggers" aria-hidden="true">
 			<a href="" id="trigger-solving-above">Level 4</a>
-			<a href="" id="trigger-solving-near">Level 3 or 2</a>
+			<a href="" id="trigger-solving-near">Level 3 <br>or <br>Level 2</a>
 			<a href="" id="trigger-solving-below">Level 1</a>
 		</div>
 		<div id="solving-above" class="std">
@@ -134,7 +134,7 @@ To view a description of the student’s achievement level claim (i.e., area), s
 	<div class="standards" aria-live="polite">
 		<div class="triggers" aria-hidden="true">
 			<a href="" id="trigger-reasoning-above">Level 4</a>
-			<a href="" id="trigger-reasoning-near">Level 3 or 2</a>
+			<a href="" id="trigger-reasoning-near">Level 3 <br>or <br>Level 2</a>
 			<a href="" id="trigger-reasoning-below">Level 1</a>
 		</div>
 		<div id="reasoning-above" class="std">

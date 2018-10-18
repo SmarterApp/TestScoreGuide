@@ -80,7 +80,7 @@ To view a description of the student’s achievement level claim (i.e., area), s
 	<div class="standards" aria-live="polite">
 		<div class="triggers" aria-hidden="true">
 			<a href="" id="trigger-concepts-above">Level 4</a>
-			<a href="" id="trigger-concepts-near">Level 3 or 2</a>
+			<a href="" id="trigger-concepts-near">Level 3 <br>or <br>Level 2</a>
 			<a href="" id="trigger-concepts-below">Level 1</a>
 		</div>
 		<div id="concepts-above" class="std">
@@ -107,7 +107,7 @@ To view a description of the student’s achievement level claim (i.e., area), s
 	<div class="standards" aria-live="polite">
 		<div class="triggers" aria-hidden="true">
 			<a href="" id="trigger-solving-above">Level 4</a>
-			<a href="" id="trigger-solving-near">Level 3 or 2</a>
+			<a href="" id="trigger-solving-near">Level 3 <br>or <br>Level 2</a>
 			<a href="" id="trigger-solving-below">Level 1</a>
 		</div>
 		<div id="solving-above" class="std">
@@ -115,7 +115,7 @@ To view a description of the student’s achievement level claim (i.e., area), s
 			<p>The student demonstrates a thorough ability to consistently solve a variety of well-posed mathematics problems by applying his or her knowledge of problem-solving skills and strategies. The student also demonstrates a strong ability to analyze real-world problems, and can build and use mathematical models to interpret and solve problems.</p>
 		</div>
 		<div id="solving-near" class="std">
-			<p class="hide">At or Level 3 or 2</p>
+			<p class="hide">Level 3 or Level 2</p>
 			<p>The student demonstrates some ability to solve well-posed mathematics problems by applying his or her knowledge of problem-solving skills and strategies. The student also demonstrates some ability to analyze real-world problems, and can build and use mathematical models to interpret and solve problems.</p>
 		</div>
 		<div id="solving-below" class="std">
@@ -134,7 +134,7 @@ To view a description of the student’s achievement level claim (i.e., area), s
 	<div class="standards" aria-live="polite">
 		<div class="triggers" aria-hidden="true">
 			<a href="" id="trigger-reasoning-above">Level 4</a>
-			<a href="" id="trigger-reasoning-near">Level 3 or 2</a>
+			<a href="" id="trigger-reasoning-near">Level 3 <br>or <br>Level 2</a>
 			<a href="" id="trigger-reasoning-below">Level 1</a>
 		</div>
 		<div id="reasoning-above" class="std">
@@ -142,7 +142,7 @@ To view a description of the student’s achievement level claim (i.e., area), s
 			<p>The student demonstrates a thorough ability to clearly and precisely put together valid arguments to support his or her own mathematical thinking and to critique the reasoning of others.</p>
 		</div>
 		<div id="reasoning-near" class="std">
-			<p class="hide">At or Level 3 or 2</p>
+			<p class="hide">Level 3 or Level 2</p>
 			<p>The student demonstrates some ability to clearly and precisely put together valid arguments to support his or her own mathematical thinking and to critique the reasoning of others.</p>
 		</div>
 		<div id="reasoning-below" class="std">

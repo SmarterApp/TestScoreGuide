@@ -694,10 +694,11 @@ h3[role="button"][aria-expanded="true"] .status-open-close {
 	line-height: 1.1;
 	color: $color-claim-trigger;
 	background-color: $color-claim-background;
+	border-bottom: 1px solid #ccc;
 	}
 .standards .triggers a.on,
 #main .standards .triggers a.on {
-	box-shadow: inset 0 3px 0 0 $color-topbar-hover;
+	box-shadow: inset 0 3px 0 0 #171768;
 	background-color: #fff;
 	}
 

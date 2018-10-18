@@ -87,7 +87,7 @@ To view a description of the student’s achievement level claim (i.e., area), s
 	<div class="standards" aria-live="polite">
 		<div class="triggers" aria-hidden="true">
 			<a href="" id="trigger-reading-above">Level 4</a>
-			<a href="" id="trigger-reading-near">Level 3 or 2</a>
+			<a href="" id="trigger-reading-near">Level 3 <br>or <br>Level 2</a>
 			<a href="" id="trigger-reading-below">Level 1</a>
 		</div>
 		<div id="reading-above" class="std">
@@ -122,7 +122,7 @@ To view a description of the student’s achievement level claim (i.e., area), s
 	<div class="standards" aria-live="polite">
 		<div class="triggers" aria-hidden="true">
 			<a href="" id="trigger-writing-above">Level 4</a>
-			<a href="" id="trigger-writing-near">Level 3 or 2</a>
+			<a href="" id="trigger-writing-near">Level 3 <br>or <br>Level 2</a>
 			<a href="" id="trigger-writing-below">Level 1</a>
 		</div>
 		<div id="writing-above" class="std">
@@ -150,7 +150,7 @@ To view a description of the student’s achievement level claim (i.e., area), s
 	<div class="standards">
 		<div class="triggers" aria-hidden="true">
 			<a href="" id="trigger-listening-above">Level 4</a>
-			<a href="" id="trigger-listening-near">Level 3 or 2</a>
+			<a href="" id="trigger-listening-near">Level 3 <br>or <br>Level 2</a>
 			<a href="" id="trigger-listening-below">Level 1</a>
 		</div>
 		<div id="listening-above" class="std">
@@ -182,7 +182,7 @@ To view a description of the student’s achievement level claim (i.e., area), s
 	<div class="standards" aria-live="polite">
 		<div class="triggers" aria-hidden="true">
 			<a href="" id="trigger-research-above">Level 4</a>
-			<a href="" id="trigger-research-near">Level 3 or 2</a>
+			<a href="" id="trigger-research-near">Level 3 <br>or <br>Level 2</a>
 			<a href="" id="trigger-research-below">Level 1</a>
 		</div>
 		<div id="research-above" class="std">
