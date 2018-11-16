@@ -24,12 +24,12 @@ sections:
 
 The Parent Guides provide additional information about the Smarter Balanced Online Summative Assessments, including sample test items for ELA and mathematics. This information will help parents better understand CAASPP results and Student Score Reports.
 
-* [Parent Guide to Smarter Balanced Summative Assessments, Grades 3-5 (PDF)](http://www.cde.ca.gov/ta/tg/ca/documents/sbparentgde35.pdf)
-* [Parent Guide to Smarter Balanced Summative Assessments, Grades 3-5, Spanish translation (PDF)](http://www.cde.ca.gov/ta/tg/ca/documents/sbparentgde35spa.pdf)
-* [Parent Guide to Smarter Balanced Summative Assessments, Grades 6-8 (PDF)](http://www.cde.ca.gov/ta/tg/ca/documents/sbparentgde68.pdf)
-* [Parent Guide to Smarter Balanced Summative Assessments, Grades 6-8, Spanish translation (PDF)](http://www.cde.ca.gov/ta/tg/ca/documents/sbparentgde68spa.pdf)
-* [Parent Guide to Smarter Balanced Summative Assessments, Grade 11 (PDF)](http://www.cde.ca.gov/ta/tg/ca/documents/sbparentgde11.pdf)
-* [Parent Guide to Smarter Balanced Summative Assessments, Grade 11, Spanish translation (PDF)](http://www.cde.ca.gov/ta/tg/ca/documents/sbparentgde11spa.pdf)
+* [Parent Guide to Smarter Balanced Summative Assessments, Grades 3-5 (PDF)](../pdf/sbparentgde35.pdf)
+* [Parent Guide to Smarter Balanced Summative Assessments, Grades 3-5, Spanish translation (PDF)](../pdf/sbparentgde35spa.pdf)
+* [Parent Guide to Smarter Balanced Summative Assessments, Grades 6-8 (PDF)](../pdf/sbparentgde68.pdf)
+* [Parent Guide to Smarter Balanced Summative Assessments, Grades 6-8, Spanish translation (PDF)](../pdf/sbparentgde68spa.pdf)
+* [Parent Guide to Smarter Balanced Summative Assessments, Grade 11 (PDF)](../pdf/sbparentgde11.pdf)
+* [Parent Guide to Smarter Balanced Summative Assessments, Grade 11, Spanish translation (PDF)](../pdf/sbparentgde11spa.pdf)
 
 ## Parent Roadmaps
 
